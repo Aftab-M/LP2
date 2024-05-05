@@ -1,0 +1,9 @@
+Natural language processing (NLP) is a field of artificial intelligence (AI) that focuses on enabling computers to understand, interpret, and generate human language in a way that is both natural and meaningful. NLP techniques are used in various applications, including sentiment analysis, machine translation, text summarization, and chatbots.
+
+One of the key tasks in NLP is text preprocessing, which involves cleaning and transforming raw text data into a format that is suitable for analysis. This often includes tokenization, removing stop words, stemming, and lemmatization.
+
+Tokenization is the process of splitting text into individual words or tokens. Sentence tokenization, on the other hand, involves splitting text into sentences. Once the text is tokenized, stop words—commonly occurring words such as "the," "is," and "and"—are typically removed to reduce noise in the data.
+
+Stemming and lemmatization are techniques used to normalize words by reducing them to their root form. Stemming involves removing suffixes from words to produce their stem, while lemmatization maps words to their base or dictionary form.
+
+After preprocessing the text, various techniques such as term frequency-inverse document frequency (TF-IDF) can be applied to extract meaningful insights from the data. TF-IDF calculates the importance of a word in a document relative to its frequency in the entire corpus, helping to identify keywords and key phrases.
